@@ -1,0 +1,79 @@
+body {
+	background-image: url(images/sandpaper.png);
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 65px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 65px;
+  background-color: #f5f5f5;
+}
+.headClass {
+	border-bottom: 3px solid grey;
+	margin-bottom: 2%;
+	background-color: white;
+}
+.headName {
+	padding: 0;
+}
+.headClass h1 {
+	background-color: teal;
+	color: white;
+	text-align: center;
+	margin: 0;
+	padding: 5% 2%;
+}
+.headNav {
+	float: right;
+	padding: 5% 0;
+}
+.mainClass {
+	border: 1px solid grey;
+	padding: 3%;
+	background-color: white;
+}
+.mainClass h1 {
+	color: teal;
+	border-bottom: 2px solid grey;
+	margin-bottom: 5%;
+}
+.mainClass .mainBio img {
+	height: 200px;
+	width: 200px;
+	float: left;
+	margin: 5%;
+}
+.connectClass {
+	border: 1px solid grey;
+	padding: 0 2%;
+	margin-left: 3%;
+	background-color: white;
+}
+.connectClass h3 {
+	color: teal;
+	border-bottom: 2px solid grey;
+	margin-bottom: 5%;
+}
+.footerClass {
+	background-color: white;
+	text-align: center;
+	padding: 20px;
+	background-color: grey;
+	border-top: 5px solid teal;
+	color: white;
+}
+.bodyClass {
+	margin-bottom: 5%;
+}
+.nav-pills>li.active>a {
+	background-color: teal;
+}
