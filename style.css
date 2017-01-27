@@ -38,7 +38,7 @@ body {
 }
 .mainClass {
 	border: 1px solid grey;
-	padding: 3%;
+	padding: 5%;
 	background-color: white;
 }
 .mainClass h1 {
@@ -48,10 +48,12 @@ body {
 	margin-top: 0;
 }
 #bioPic {
-	height: 200px;
-	width: 200px;
-	float: left;
-	margin: 5%;
+	height: 100%;
+	width: 100%;
+	margin: 0 0 5%;
+}
+.bioPicMargin {
+
 }
 .connectClass {
 	border: 1px solid grey;
@@ -103,4 +105,7 @@ body {
 }
 .connectThumb {
 	padding: 0;
+}
+.mainPara p {
+	margin: 0 15px;
 }
