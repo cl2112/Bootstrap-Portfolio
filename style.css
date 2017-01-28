@@ -37,7 +37,8 @@ body {
 	padding: 5% 0;
 }
 .xsHeadNav li {
-	width: 32.33333%
+	width: 32.83333%;
+	text-align: center;
 }
 .mainClass {
 	border: 1px solid grey;
