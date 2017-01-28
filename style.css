@@ -36,29 +36,32 @@ body {
 	float: right;
 	padding: 5% 0;
 }
+.xsHeadNav {
+	text-align: center;
+}
 .mainClass {
 	border: 1px solid grey;
 	padding: 5%;
 	background-color: white;
+	margin-bottom: 3%;
 }
 .mainClass h1 {
 	color: teal;
 	border-bottom: 2px solid grey;
 	padding-bottom: 5%;
 	margin-top: 0;
+	margin-bottom: 3%;
 }
 #bioPic {
 	height: 100%;
 	width: 100%;
-	margin: 0 0 5%;
 }
 .bioPicMargin {
-
+	margin-bottom: 3%;
 }
 .connectClass {
 	border: 1px solid grey;
 	padding: 0 3%;
-	margin-left: 3%;
 	background-color: white;
 }
 .connectClass h3 {
