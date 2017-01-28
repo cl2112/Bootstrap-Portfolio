@@ -26,7 +26,7 @@ body {
 	padding: 0;
 }
 .headClass h1 {
-	background-color: teal;
+	background-color: #4aaaa5;
 	color: white;
 	text-align: center;
 	margin: 0;
@@ -47,7 +47,7 @@ body {
 	margin-bottom: 3%;
 }
 .mainClass h1 {
-	color: teal;
+	color: #4aaaa5;
 	border-bottom: 2px solid grey;
 	padding-bottom: 5%;
 	margin-top: 0;
@@ -67,7 +67,7 @@ body {
 	background-color: white;
 }
 .connectClass h3 {
-	color: teal;
+	color: #4aaaa5;
 	border-bottom: 2px solid grey;
 	padding-bottom: 5%;
 }
@@ -75,14 +75,14 @@ body {
 	text-align: center;
 	padding: 25px;
 	background-color: grey;
-	border-top: 5px solid teal;
+	border-top: 5px solid #4aaaa5;
 	color: white;
 }
 .bodyClass {
 	margin-bottom: 5%;
 }
 .nav-pills>li.active>a {
-	background-color: teal;
+	background-color: #4aaaa5;
 }
 .thumbClass {
 	margin: 0 -3%;
