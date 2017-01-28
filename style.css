@@ -36,8 +36,8 @@ body {
 	float: right;
 	padding: 5% 0;
 }
-.xsHeadNav {
-	text-align: center;
+.xsHeadNav li {
+	width: 32.33333%
 }
 .mainClass {
 	border: 1px solid grey;
