@@ -56,6 +56,7 @@ body {
 #bioPic {
 	height: 100%;
 	width: 100%;
+	margin: 6px 0 0 0;
 }
 .bioPicMargin {
 	margin-bottom: 3%;
